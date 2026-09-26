@@ -42,7 +42,7 @@ export default function Footer() {
                 07009248451
               </a>
               <p className="leading-relaxed max-w-xs">
-                chownk, Kahnuwan Road, Simbel, Batala, Punjab 143505
+                Simble chownk, kahnuwan road batala, Punjab 143505
               </p>
               <p className="text-ivory/50 label-caps text-[10px] mt-1">Service Reach — Batala, Gurdaspur &amp; Pathankot</p>
               <div className="flex gap-6 mt-4">
