@@ -26,7 +26,7 @@ export default function ContactSection() {
             <div>
               <span className="label-caps text-forest/45">Address</span>
               <p className="text-forest/70 mt-1 leading-relaxed max-w-xs">
-                chownk, Kahnuwan Road, Simbel, Batala, Punjab 143505
+                Simble chownk, kahnuwan road batala, Punjab 143505
               </p>
             </div>
             <div>
