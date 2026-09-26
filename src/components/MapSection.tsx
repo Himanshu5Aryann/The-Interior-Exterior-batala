@@ -29,7 +29,7 @@ export default function MapSection() {
             <div className="absolute top-0 left-0 z-10 bg-forest text-ivory px-6 py-4 m-5 max-w-xs">
               <p className="label-caps text-gold-light">Studio Address</p>
               <p className="text-sm mt-2 leading-relaxed text-ivory/85">
-                chownk, Kahnuwan Road, Simbel, Batala, Punjab 143505
+                Simble chownk, kahnuwan road batala, Punjab 143505
               </p>
             </div>
             <iframe
