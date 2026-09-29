@@ -75,7 +75,7 @@ export default function Footer() {
 
         <div className="flex flex-col-reverse sm:flex-row items-center justify-between gap-4 pt-8 text-xs text-ivory/45">
           <p>© 2026 The Interior & Exterior Solution. All rights reserved.</p>
-          <p>Built and designed by Himanshu Aaryaan</p>
+          <p>Built and designed by Himanshu Aryann</p>
         </div>
       </div>
     </footer>
